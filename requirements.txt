@@ -6,3 +6,4 @@ sqlalchemy
 matplotlib
 seaborn
 scikit-learn
+nbconvert
