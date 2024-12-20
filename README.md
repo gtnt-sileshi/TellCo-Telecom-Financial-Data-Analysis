@@ -35,8 +35,8 @@ project/
 ### **1. Clone the Repository**
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git https://github.com/gtnt-sileshi/TellCo-Telecom-Financial-Data-Analysis
+cd TellCo-Telecom-Financial-Data-Analysis
 ```
 
 ### **2. Install Required Libraries**
