@@ -1,4 +1,4 @@
-from database import query_data
+from scripts.database import query_data
 
 def analyze_top_handsets(engine):
     """
