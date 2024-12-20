@@ -1,4 +1,4 @@
-from database import query_data
+from scripts.database import query_data
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.cluster import KMeans
 
